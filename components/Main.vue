@@ -239,7 +239,7 @@
 
     <!-- Sign-up to the Newsletter -->
 
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center mb-72">
       <div class="text-center mb-10">
         <p class="text-6xl w-4/6 mx-auto mb-10">Sign-up to the Newsletter and Get the Latest Updates</p>
         <p class="w-2/5 mx-auto">One-click subscription / Unsubscribe anytime /<br> Directly to your inbox</p>
