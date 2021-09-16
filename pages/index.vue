@@ -19,8 +19,8 @@
   </div>
 
   <div class="flex justify-center">
-    <div class="Index__commissions w-4/12">
-      <span class="text-xs text-gray-500">Commissions</span>
+    <div class="Index__commissions flex flex-col items-start w-4/12">
+      <span class="text-xs text-gray-500 mb-6">Commissions</span>
       <div class="Index__commissions">
         <a class="hover:text-red-500" href="#">Haden</a>
         <span class="text-red-500">/</span>
@@ -34,10 +34,10 @@
         <span class="text-red-500">/</span>
       </div>
     </div>
-    <div class="Index__journal w-4/12">
-      <span class="text-xs text-gray-500">Journal</span>
+    <div class="Index__journal flex flex-col items-start w-4/12">
+      <span class="text-xs text-gray-500 mb-6">Journal</span>
       <div class="Index__commissions">
-        <a class="hover:text-red-500" href="#">Journal of Asia</a>
+        <a class="hover:text-red-500" href="#">Journal of Asia</a><span class="text-xs align-top text-red-500">NEW</span>
         <span class="text-red-500">/</span>
         <a class="hover:text-red-500" href="#">A Five-Minute Guide to Better Typography</a>
         <span class="text-red-500">/</span>
