@@ -12,9 +12,6 @@ module.exports = {
       fontSize: {
         '10xl': '9rem',
        },
-       lineHeight: {
-        'leading-20': '8.625rem',
-       }
     },
     
   },
