@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="flex mb-14">
-      <div class="Main__img-large w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/5fae75f4d537b9d7a574af78_2020 11 The Eternal Father Home Special.jpg" alt="">
         </div>
@@ -10,7 +10,7 @@
           <p class="text-xs text-gray-500">Archival Print, Unique Edition</p>
         </div>
       </div>
-      <div class="Main__img-small w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/5fae68897550190004422ae9_2020 11 Jugon Home Special.jpg" alt="">
         </div>
@@ -22,7 +22,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/60783c197417dc373c01f075_Pierrick Calvez Megura V 03.jpg" alt="">
         </div>
@@ -31,7 +31,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-small w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/60783733067b795e07340620_Pierrick Calvez The Land Below The Mermaids Wife 03.jpg" alt="">
         </div>
@@ -43,7 +43,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/5fae5380fb5bf29150e9528d_2020 09 The Land Below Poster 03.jpg" alt="">
         </div>
@@ -52,7 +52,7 @@
           <p class="text-xs text-gray-500">Archival Print, Unique Edition</p>
         </div>
       </div>
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/60784ee8cacc7f2fd08f9afa_Pierrick Calvez Segon Ouverture III 03.jpg" alt="">
         </div>
@@ -61,7 +61,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-small w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/5ec624fed0d5ffa3a93e1efc_1805 Vermont Peak IV.jpg" alt="">
         </div>
@@ -73,7 +73,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/The Land Below Gliese Shores 03.jpg" alt="">
         </div>
@@ -82,7 +82,7 @@
           <p class="text-xs text-gray-500">Archival Print, Unique Edition</p>
         </div>
       </div>
-      <div class="Main__img-small w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Vermont Peak I 03.jpg" alt="">
         </div>
@@ -94,7 +94,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Summer.jpg" alt="">
         </div>
@@ -103,7 +103,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-small w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Ylin–Ylan X 01.jpg" alt="">
         </div>
@@ -115,7 +115,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/It Blows Forward C 03.jpg" alt="">
         </div>
@@ -124,7 +124,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Citadel II Home Special.jpg" alt="">
         </div>
@@ -133,7 +133,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-small w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Journey to Cath.jpg" alt="">
         </div>
@@ -145,7 +145,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-7/12 relative">
+      <div class="w-7/12 relative">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Journal of Asia Homepage Visual.jpg" alt="">
         </div>
@@ -154,7 +154,7 @@
           <p class="text-3xl text-white text-center">2010-2021</p>
         </div>
       </div>
-      <div class="Main__img-small w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Ueno Wharf 01.jpg" alt="">
         </div>
@@ -166,7 +166,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/The Aman Steppe 01.jpg" alt="">
         </div>
@@ -175,7 +175,7 @@
           <p class="text-xs text-gray-500">Book</p>
         </div>
       </div>
-      <div class="Main__img-small w-7/12">
+      <div class="w-7/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Tape Jogginghouse 01 1800.jpg" alt="">
         </div>
@@ -187,7 +187,7 @@
     </div>
 
     <div class="flex mb-14">
-      <div class="Main__img-large w-7/12">
+      <div class="w-7/12">
         <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/It Blows Forward B.jpg" alt="">
         </div>
@@ -196,7 +196,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-large w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Jaune Serie Print.jpg" alt="">
         </div>
@@ -205,7 +205,7 @@
           <p class="text-xs text-gray-500">Archival Print</p>
         </div>
       </div>
-      <div class="Main__img-small w-5/12">
+      <div class="w-5/12">
       <div class="overflow-hidden">
         <img class="duration-1100 hover:scale-110" src="~@/assets/images/Main/Journey to Cath Booklet 2.jpg" alt="">
         </div>
@@ -234,6 +234,19 @@
           <p class="font-bold">Shuimu II</p>
           <p class="text-xs text-gray-500">Riso Print, Edition of 10</p>
         </div>
+      </div>
+    </div>
+
+    <!-- Sign-up to the Newsletter -->
+
+    <div class="flex flex-col items-center mb-72">
+      <div class="text-center mb-10">
+        <p class="text-6xl w-4/6 mx-auto mb-10">Sign-up to the Newsletter and Get the Latest Updates</p>
+        <p class="w-2/5 mx-auto">One-click subscription / Unsubscribe anytime /<br> Directly to your inbox</p>
+      </div>
+      <div class="flex items-center">
+      <input class="bg-red-50 text-red-500 text-3xl text-center placeholder-red-200 w-80 h-14" type="text" placeholder="Enter your email">
+      <button class="bg-red-500 text-white text-3xl w-44 h-14">Subscribe</button>
       </div>
     </div>
 
