@@ -12,6 +12,9 @@ module.exports = {
       fontSize: {
         '10xl': '9rem',
        },
+       transitionDuration: {
+        '1100': '1100ms',
+       }
     },
     
   },
