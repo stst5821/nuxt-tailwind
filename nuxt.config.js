@@ -48,7 +48,4 @@ export default {
   router: {
     base: '/nuxt-tailwind/'
   },
-  generate: {
-    dir: 'docs'
-  },
 }
