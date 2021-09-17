@@ -2,90 +2,337 @@
 <div class="w-10/12 mx-auto pt-20">
   <div class="flex mb-20">
     <p class="flex-grow w-32">Series</p>
-    <div class="flex-grow text-4xl">
-      <p>The Land Below</p>
-      <p>Solos</p>
-      <p>The Aman Steppe</p>
-      <p>Ylin–Ylan</p>
-      <p>Shuimu</p>
-      <p>Constellation</p>
-      <p>Segon Ouverture</p>
-      <p>Jaune</p>
+    <div class="flex-grow text-4xl ml-5">
+      <p><a href="#" class="Art__viewer">The Land Below<p class="text-red-500 text-xl align-top inline"> 7</p>
+      <span><img src="~@/assets/images/Main/60783733067b795e07340620_Pierrick Calvez The Land Below The Mermaids Wife 03.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Solos<p class="text-red-500 text-xl align-top inline"> 5</p>
+      <span><img src="~@/assets/images/Main/calendar.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">The Aman Steppe<p class="text-red-500 text-xl align-top inline"> 2</p>
+      <span><img src="~@/assets/images/Main/The Aman Steppe 01.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ylin–Ylan<p class="text-red-500 text-xl align-top inline"> 3</p>
+      <span><img src="~@/assets/images/Main/Ylin–Ylan X 01.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Shuimu<p class="text-red-500 text-xl align-top inline"> 2</p>
+      <span><img src="~@/assets/images/Main/Tape Jogginghouse 01 1800.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Constellation<p class="text-red-500 text-xl align-top inline"> 2</p>
+      <span><img src="~@/assets/images/Main/Constellation II 01.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Segon Ouverture<p class="text-red-500 text-xl align-top inline"> 4</p>
+      <span><img src="~@/assets/images/Main/60784ee8cacc7f2fd08f9afa_Pierrick Calvez Segon Ouverture III 03.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune<p class="text-red-500 text-xl align-top inline"> 6</p>
+      <span><img src="~@/assets/images/Main/Jaune Serie Print.jpg" alt=""></span>
+      </a></p>
     </div>
     <div class="flex-grow text-4xl">
-      <p>Ueno Wharf</p>
-      <p>Journey to Cath</p>
-      <p>Summer Encore</p>
-      <p>Citadel</p>
-      <p>Vermont Peak</p>
-      <p>It Blows Forward</p>
-      <p>Megura</p>
+      <p><a href="#" class="Art__viewer">Ueno Wharf<p class="text-red-500 text-xl align-top inline"> 2</p>
+      <span><img src="~@/assets/images/Main/Ueno Wharf 01.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Journey to Cath<p class="text-red-500 text-xl align-top inline"> 2</p>
+      <span><img src="~@/assets/images/Main/Journey to Cath Booklet 2.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Summer Encore<p class="text-red-500 text-xl align-top inline"> 3</p>
+      <span><img src="~@/assets/images/Main/Summer.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Citadel<p class="text-red-500 text-xl align-top inline"> 3</p>
+      <span><img src="~@/assets/images/Main/Citadel II Home Special.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak<p class="text-red-500 text-xl align-top inline"> 5</p>
+      <span><img src="~@/assets/images/Main/5ec624fed0d5ffa3a93e1efc_1805 Vermont Peak IV.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward<p class="text-red-500 text-xl align-top inline"> 6</p>
+      <span><img src="~@/assets/images/Main/It Blows Forward C 03.jpg" alt=""></span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura<p class="text-red-500 text-xl align-top inline"> 5</p>
+      <span><img src="~@/assets/images/Main/60783c197417dc373c01f075_Pierrick Calvez Megura V 03.jpg" alt=""></span>
+      </a></p>
     </div>
   </div>
 
   <div class="flex text-gray-500">
     <p class="flex-grow">Artworks</p>
     <div class="flex-grow leading-7">
-      <p>The Eternal Father</p>
-      <p>Odor of Dried Flowers</p>
-      <p>The Mermaid's Wife</p>
-      <p>Sirius Ticking</p>
-      <p>The Aman Steppe Cover III</p>
-      <p>Summer Arrow Encore</p>
-      <p>One Leaf</p>
-      <p>Ueno Wharf III</p>
-      <p>Journey to Cath SP II</p>
-      <p>Journey to Cath IV</p>
-      <p>Public Space</p>
-      <p>2020</p>
-      <p>Ylin–Ylan X</p>
-      <p>Ylin–Ylan I</p>
-      <p>Citadel II</p>
-      <p>Vermont Peak IV South Face</p>
-      <p>Vermont Peak II Moonlight</p>
-      <p>Vermont Peak I Night Trail</p>
-      <p>Constellation II</p>
-      <p>It Blows Forward F</p>
-      <p>It Blows Forward C</p>
-      <p>It Blows Forward A</p>
-      <p>Jaune IX</p>
-      <p>Jaune V</p>
-      <p>Segon Ouverture IV</p>
-      <p>Segon Ouverture II</p>
-      <p>Megura V</p>
-      <p>Megura III</p>
-      <p>Megura II</p>
+      <p><a href="#" class="Art__viewer">The Eternal Father
+        <span>
+          <img src="~@/assets/images/Main/5fae75f4d537b9d7a574af78_2020 11 The Eternal Father Home Special.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Odor of Dried Flowers
+        <span>
+          <img src="~@/assets/images/Main/5fae5380fb5bf29150e9528d_2020 09 The Land Below Poster 03.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">The Mermaid's Wife
+        <span>
+          <img src="~@/assets/images/Main/60783733067b795e07340620_Pierrick Calvez The Land Below The Mermaids Wife 03.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Sirius Ticking
+        <span>
+          <img src="~@/assets/images/Main/Sirius Ticking.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">The Aman Steppe Cover III
+        <span>
+          <img src="~@/assets/images/Main/The Aman Steppe 01.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Summer Arrow Encore
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">One Leaf
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ueno Wharf III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Journey to Cath SP II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Journey to Cath IV
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">2020
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ylin–Ylan X
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ylin–Ylan I
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Citadel II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak IV South Face
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak II Moonlight
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak I Night Trail
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward F
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer"> It Blows Forward C
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward A
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune IX
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune V
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Segon Ouverture IV
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Segon Ouverture II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura V
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
     </div>
     <div class="flex-grow">
-      <p>The Sundered Fountains</p>
-      <p>Jugon</p>
-      <p>Gliese Shores</p>
-      <p>Vermont Peak V</p>
-      <p>Summer Beetle Encore</p>
-      <p>Three Leaves</p>
-      <p>The Orchard Knight</p>
-      <p>Shuimu II</p>
-      <p>Ueno Wharf II</p>
-      <p>Journey to Cath II</p>
-      <p>The Aman Steppe Cover I</p>
-      <p>Summer Anchor Encore</p>
-      <p>Ylin–Ylan II</p>
-      <p>Citadel III</p>
-      <p>Citadel I</p>
-      <p>Vermont Peak III Summit</p>
-      <p>Shuimu I</p>
-      <p>Constellation III</p>
-      <p>It Blows Forward X</p>
-      <p>It Blows Forward D</p>
-      <p>It Blows Forward B</p>
-      <p>Segon Ouverture Zero</p>
-      <p>Jaune VIII</p>
-      <p>Jaune I</p>
-      <p>Segon Ouverture III</p>
-      <p>Megura I</p>
-      <p>Megura IV</p>
-      <p>Jaune III</p>
-      <p>Jaune VII</p>
+      <p><a href="#" class="Art__viewer">The Sundered Fountains
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jugon
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Gliese Shores
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak V
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Summer Beetle Encore
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Three Leaves
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">The Orchard Knight
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Shuimu II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ueno Wharf II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Journey to Cath II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">The Aman Steppe Cover I
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Summer Anchor Encore
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Ylin–Ylan II
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Citadel III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Citadel I
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Vermont Peak III Summit
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Shuimu I
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Constellation III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward X
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward D
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">It Blows Forward B
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Segon Ouverture Zero
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune VIII
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Segon Ouverture III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura I
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Megura IV
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune III
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
+      <p><a href="#" class="Art__viewer">Jaune VII
+        <span>
+          <img src="~@/assets/images/Main/Summer.jpg" alt="">
+        </span>
+      </a></p>
     </div>
   </div>
 
@@ -93,6 +340,24 @@
 </template>
 
 <style>
+
+/* hover時に画像が表示される */
+
+.Art__viewer:hover {
+  position: relative;
+    text-decoration: none;
+}
+.Art__viewer span {
+  display: none;
+    position: absolute;
+    top: -200px;
+    left: 150px;
+}
+.Art__viewer:hover span {
+    border: none;
+    display: block;
+    width: 210px;
+}
 </style>
 
 

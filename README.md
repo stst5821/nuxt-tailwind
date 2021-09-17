@@ -9,7 +9,3 @@ Setup
 https://tailwindcss.nuxtjs.org/setup
 
 nuxt.config.jsとtailwind.config.jsがあるので、書くファイルを間違えないようにする。
-
-
-Install Tailwind CSS with Nuxt.js  
-https://tailwindcss.com/docs/guides/nuxtjs
