@@ -1,13 +1,13 @@
 <template>
 <div class="w-10/12 mx-auto mt-32 mb-20">
  <nav class="flex justify-between items-center">
-   <img class="w-14" src="~@/assets/images/Header/title_icon.svg" alt="">
+   <nuxt-link to="/"><img class="w-14" src="~@/assets/images/Header/title_icon.svg" alt=""></nuxt-link>
     <ul class="flex mr-28">
-      <li class="Header__list"><a class="Header__link" href="#">Home</a></li>
-      <li class="Header__list"><a class="Header__link" href="#">Art</a></li>
-      <li class="Header__list"><a class="Header__link" href="#">Commissions</a></li>
-      <li class="Header__list"><a class="Header__link" href="#">Studio</a></li>
-      <li class="Header__list"><a class="Header__link" href="#">Journal</a></li>
+      <li class="Header__list"><nuxt-link to="/">Home</nuxt-link></li>
+      <li class="Header__list"><nuxt-link to="/Art">Art</nuxt-link></li>
+      <li class="Header__list"><nuxt-link to="/Commissions">Commissions</nuxt-link></li>
+      <li class="Header__list"><nuxt-link to="/Studio">Studio</nuxt-link></li>
+      <li class="Header__list"><nuxt-link to="/Journal">Journal</nuxt-link></li>
     </ul>
   </nav>
 </div>
