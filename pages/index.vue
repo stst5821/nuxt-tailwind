@@ -18,7 +18,7 @@
     </div>
   </div>
 
-  <div class="flex justify-center">
+  <div class="flex justify-center mb-20">
     <div class="Index__commissions flex flex-col items-start w-4/12">
       <span class="text-xs text-gray-500 mb-6">Commissions</span>
       <div class="Index__commissions">

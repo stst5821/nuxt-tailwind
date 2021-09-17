@@ -241,8 +241,8 @@
 
     <div class="flex flex-col items-center mb-72">
       <div class="text-center mb-10">
-        <p class="text-6xl w-4/6 mx-auto mb-10">Sign-up to the Newsletter and Get the Latest Updates</p>
-        <p class="w-2/5 mx-auto">One-click subscription / Unsubscribe anytime /<br> Directly to your inbox</p>
+        <p class="text-6xl mb-10">Sign-up to the Newsletter<br> and Get the Latest Updates</p>
+        <p>One-click subscription / Unsubscribe anytime /<br> Directly to your inbox</p>
       </div>
       <div class="flex items-center">
       <input class="bg-red-50 text-red-500 text-3xl text-center placeholder-red-200 w-80 h-14" type="text" placeholder="Enter your email">
