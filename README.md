@@ -1,6 +1,9 @@
 # nuxt-tailwind
 
-以下のサイトをNuxt.jsで模写  
+制作したサイト(Githubpagesにデプロイ)  
+https://stst5821.github.io/nuxt-tailwind/
+
+模写元サイト  
 https://www.pierrickcalvez.com/
 
 ## 使用技術
