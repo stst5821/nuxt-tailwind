@@ -3,6 +3,14 @@
 以下のサイトをNuxt.jsで模写  
 https://www.pierrickcalvez.com/
 
+## 使用技術
+・Nuxt.js  
+・tailwindcss  
+・PC対応のみ  
+
+## 制作時間  
+・25時間
+
 ## tailwindcssを導入
 
 Setup  
